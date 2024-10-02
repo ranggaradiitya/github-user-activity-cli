@@ -1,0 +1,15 @@
+{
+  "name": "github-user-activity-cli",
+  "version": "1.0.0",
+  "description": "CLI to fetch and display GitHub user activity",
+  "main": "index.js",
+  "bin": {
+    "github-activity": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rangga Raditya Putra Pratama",
+  "license": "MIT"
+}
